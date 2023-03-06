@@ -1,4 +1,4 @@
-# Whaley's Hair and Tattoo - Unofficial 0.F Patch
+# Whaley's Hair and Tattoo - Unofficial 0.G Patch
 
 ![Whaley's Hair and Tattoo](https://i.redd.it/2vtebwm1hiy31.png)
 
@@ -13,7 +13,7 @@ I have gone through and updated the relevant json items so that this mod now wor
 ### Installation
 
 1. Copy the **Whaleys Hair and Tattoo** folder from this repository to your CDDA **/data/mods/** folder.
-2. Activate **Whaley's Hair & Tattoo - 0.F** in the graphical mods category of new world creation.
+2. Activate **Whaley's Hair & Tattoo - 0.G** in the graphical mods category of new world creation.
 3. Create a new character and use the added options in the trait selection screen.
 
 This mod is intended for use with player models from MSXotto+ and its derivative tilesets. 
@@ -21,6 +21,8 @@ This mod is intended for use with player models from MSXotto+ and its derivative
 At this time, only MSXotto+ and ChibiUltica are in the tiles compatibility list for this mod because are the only mainlined MSXotto+ series tilesets.
 
 If you would like to use this mod with that other guy's tileset that will never be included in mainline, please add his tileset to the compatibility list in **mod_tileset.json** or this mod will not work for you.
+
+### [Changelog](CHANGELOG.md)
 
 ### Disclaimer
 
