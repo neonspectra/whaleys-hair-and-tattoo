@@ -4,17 +4,15 @@
 
 ### Overview
 
-A classic character creation mod by Whaley: this mod adds new hairstyles, tattoos, makeup, and cosmetic injuries to [Cataclysm: Dark Days Ahead](https://github.com/CleverRaven/Cataclysm-DDA/).
+This repo is an unofficial fork of the [classic character creation mod by Whaley](https://www.reddit.com/r/cataclysmdda/comments/dvxkr4/whaleys_hair_tattoo_mod/), established with the intent of keeping Whaley's mod alive for newer releases of [Cataclysm: Dark Days Ahead](https://github.com/CleverRaven/Cataclysm-DDA/).
 
-[Whaley released this mod](https://www.reddit.com/r/cataclysmdda/comments/dvxkr4/whaleys_hair_tattoo_mod/) in 2019. Since then, the mod has not received any official updates. 
-
-This repo is an unofficial fork, established with the intent of maintaining compatibility with MSX-series tilesets in newer releases from CleverRaven.
+This mod adds new hairstyles, tattoos, makeup, and cosmetic injuries to further customise the visual appearance of your characters.
 
 ### Installation
 
 1. Copy the **Whaleys Hair and Tattoo** folder from this repository to your CDDA `/data/mods/` folder.
 2. Activate **Whaley's Hair & Tattoo - 0.G** in the graphical mods category of new world creation.
-3. Create a new character and use the added options in the trait selection screen.
+3. Create a new character. The new cosmetics will be available in the trait selection screen.
 
 This mod is intended for use with player models from MSXotto+ and its derivative tilesets. 
 
