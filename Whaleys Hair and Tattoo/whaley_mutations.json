@@ -418,7 +418,7 @@
   {
         "type" : "mutation",
         "id" : "MAKEUP_EYES_MASCARA_RUNNING",
-        "name" : "Makeup (Eyes): mascara running",
+        "name" : "Makeup (eyes): mascara running",
         "points" : 0,
         "description" : "You have mascara running down your face.",
         "starting_trait" : true,
@@ -431,7 +431,7 @@
   {
         "type" : "mutation",
         "id" : "MAKEUP_FACE_RED_BLUSH",
-        "name" : "Makeup (Face): red blush",
+        "name" : "Makeup (face): red blush",
         "points" : 0,
         "description" : "You have red blush on your cheeks.",
         "starting_trait" : true,
@@ -470,7 +470,7 @@
   {
         "type" : "mutation",
         "id" : "MAKEUP_FACE_UNIBROW",
-        "name" : "Makeup (Face): unibrow",
+        "name" : "Makeup (face): unibrow",
         "points" : 0,
         "description" : "You have a unibrow.",
         "starting_trait" : true,
@@ -548,7 +548,7 @@
   {
         "type" : "mutation",
         "id" : "TATTOO_M_TORSO_CROSS",
-        "name" : "Tattoo (Male): torso cross",
+        "name" : "Tattoo (male): torso cross",
         "points" : 0,
         "description" : "You have a black cross on your chest.",
         "starting_trait" : true,
@@ -613,7 +613,7 @@
   {
         "type" : "mutation",
         "id" : "MAKEUP_EYES_EYELINER_GREEN",
-        "name" : "Makeup (Eyes): eyeliner green",
+        "name" : "Makeup (eyes): eyeliner green",
         "points" : 0,
         "description" : "You have green eyeliner on.",
         "starting_trait" : true,
@@ -626,7 +626,7 @@
   {
         "type" : "mutation",
         "id" : "MAKEUP_EYES_EYELINER_BLUE",
-        "name" : "Makeup (Eyes): eyeliner blue",
+        "name" : "Makeup (eyes): eyeliner blue",
         "points" : 0,
         "description" : "You have blue eyeliner on.",
         "starting_trait" : true,
@@ -639,7 +639,7 @@
   {
         "type" : "mutation",
         "id" : "MAKEUP_EYES_EYELINER_RED",
-        "name" : "Makeup (Eyes): eyeliner red",
+        "name" : "Makeup (eyes): eyeliner red",
         "points" : 0,
         "description" : "You have red eyeliner on.",
         "starting_trait" : true,
@@ -652,7 +652,7 @@
   {
         "type" : "mutation",
         "id" : "MAKEUP_EYES_DARK_CIRCLES",
-        "name" : "Makeup (Eyes): dark circles",
+        "name" : "Makeup (eyes): dark circles",
         "points" : 0,
         "description" : "You have dark circles around your eyes.",
         "starting_trait" : true,
@@ -756,7 +756,7 @@
   {
         "type" : "mutation",
         "id" : "MAKEUP_EYES_EYEBROWS_ANGRY",
-        "name" : "Makeup (Eyes): angry eyebrows",
+        "name" : "Makeup (eyes): angry eyebrows",
         "points" : 0,
         "description" : "You have angry-looking eyebrows.",
         "starting_trait" : true,
@@ -847,7 +847,7 @@
   {
         "type" : "mutation",
         "id" : "MAKEUP_FACE_ROSY_CHEEKS",
-        "name" : "Makeup (Face): rosy cheeks",
+        "name" : "Makeup (face): rosy cheeks",
         "points" : 0,
         "description" : "You have rosy cheeks.",
         "starting_trait" : true,
@@ -899,7 +899,7 @@
   {
         "type" : "mutation",
         "id" : "TATTOO_F_TORSO_CROSS",
-        "name" : "Tattoo (Female): torso cross",
+        "name" : "Tattoo (female): torso cross",
         "points" : 0,
         "description" : "You have a cross tattoo on your chest.",
         "starting_trait" : true,
