@@ -2,7 +2,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_SPACEAGE_PINK",
-        "name" : "Hair: Space-Age Pink",
+        "name" : "Hair: pink, space-age",
         "points" : 0,
         "description" : "You have a neon pink space-age bob.",
         "starting_trait" : true,
@@ -14,7 +14,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_SPACEAGE_GREEN",
-        "name" : "Hair: Space-Age Green",
+        "name" : "Hair: green, space-age",
         "points" : 0,
         "description" : "You have a neon green space-age bob.",
         "starting_trait" : true,
@@ -26,7 +26,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_PIGTAILS_BLONDE",
-        "name" : "Hair: Blonde Pigtail",
+        "name" : "Hair: pigtails, blonde",
         "points" : 0,
         "description" : "You have blonde hair, with the ends tied into low pigtails.",
         "starting_trait" : true,
@@ -38,7 +38,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_PIGTAILS_BROWN",
-        "name" : "Hair: Brown Pigtail",
+        "name" : "Hair: pigtails, brown",
         "points" : 0,
         "description" : "You have brown hair, with the ends tied into low pigtails.",
         "starting_trait" : true,
@@ -50,7 +50,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_PIGTAILS_BLACK",
-        "name" : "Hair: Black Pigtail",
+        "name" : "Hair: pigtails, black",
         "points" : 0,
         "description" : "You have black hair, with the ends tied into low pigtails.",
         "starting_trait" : true,
@@ -62,7 +62,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_LONGWAVY_PONY_BROWN",
-        "name" : "Hair: Half Ponytail Brown",
+        "name" : "Hair: brown, half ponytail",
         "points" : 0,
         "description" : "You have long wavy brown hair, with a short ponytail.",
         "starting_trait" : true,
@@ -74,7 +74,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_LONGWAVY_PONY_BOW_BROWN",
-        "name" : "Hair: Half Ponytail Brown with Bow",
+        "name" : "Hair: brown, half ponytail with bow",
         "points" : 0,
         "description" : "You have long wavy brown hair, with a short ponytail and bow.",
         "starting_trait" : true,
@@ -86,7 +86,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_LONGWAVY_PONY_BLONDE",
-        "name" : "Hair: Half Ponytail Blonde",
+        "name" : "Hair: blonde, half ponytail",
         "points" : 0,
         "description" : "You have long wavy blonde hair, with a short ponytail.",
         "starting_trait" : true,
@@ -98,7 +98,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_LONGWAVY_PONY_BLACK",
-        "name" : "Hair: Half Ponytail Black",
+        "name" : "Hair: black, half ponytail",
         "points" : 0,
         "description" : "You have long wavy black hair, with a short ponytail.",
         "starting_trait" : true,
@@ -110,7 +110,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_LONGWAVY_BROWN",
-        "name" : "Hair: Long Wavy Brown",
+        "name" : "Hair: brown, long wavy",
         "points" : 0,
         "description" : "You have long wavy brown hair.",
         "starting_trait" : true,
@@ -122,7 +122,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_LONGWAVY_BLONDE",
-        "name" : "Hair: Long Wavy Blonde",
+        "name" : "Hair: blonde, long wavy",
         "points" : 0,
         "description" : "You have long wavy blonde hair.",
         "starting_trait" : true,
@@ -134,7 +134,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_LONGWAVY_BLACK",
-        "name" : "Hair: Long Wavy Black",
+        "name" : "Hair: black, long wavy",
         "points" : 0,
         "description" : "You have long wavy black hair.",
         "starting_trait" : true,
@@ -146,7 +146,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_PONY_BROWN",
-        "name" : "Hair: Ponytail Brown",
+        "name" : "Hair: brown, ponytail (alt)",
         "points" : 0,
         "description" : "You have a brown ponytail.",
         "starting_trait" : true,
@@ -158,7 +158,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_PONY_BLONDE",
-        "name" : "Hair: Ponytail Blonde",
+        "name" : "Hair: blonde, ponytail (alt)",
         "points" : 0,
         "description" : "You have a blonde ponytail.",
         "starting_trait" : true,
@@ -170,7 +170,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_PONY_BLACK",
-        "name" : "Hair: Ponytail Black",
+        "name" : "Hair: black, ponytail (alt)",
         "points" : 0,
         "description" : "You have a black ponytail.",
         "starting_trait" : true,
@@ -182,7 +182,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_SHORT_PIGTAILS_RED",
-        "name" : "Hair: Red Short Pigtails",
+        "name" : "Hair: red, short pigtails",
         "points" : 0,
         "description" : "You have short red hair, pulled into two frontal pigtails.",
         "starting_trait" : true,
@@ -193,8 +193,8 @@
   },
   {
         "type" : "mutation",
-        "id" : "HAIR_QUADTAILS_BOWS",
-        "name" : "Hair: Quadtail Brown with Bows",
+        "id" : "HAIR_QUADTAILS_BROWN_BOWS",
+        "name" : "Hair: brown, quadtails with bows",
         "points" : 0,
         "description" : "You have long brown hair, styled into anime-inspired quadtails with red bows on each side.",
         "starting_trait" : true,
@@ -206,7 +206,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_QUADTAILS_BROWN",
-        "name" : "Hair: Quadtail Brown",
+        "name" : "Hair: brown, quadtails",
         "points" : 0,
         "description" : "You have long brown hair, styled into anime-inspired quadtails.",
         "starting_trait" : true,
@@ -218,7 +218,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_QUADTAILS_BLONDE",
-        "name" : "Hair: Quadtail Blonde",
+        "name" : "Hair: blonde, quadtails",
         "points" : 0,
         "description" : "You have long blonde hair, styled into anime-inspired quadtails.",
         "starting_trait" : true,
@@ -230,7 +230,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_FLAPPER_BLUE",
-        "name" : "Hair: Flapper Blue Hair",
+        "name" : "Hair: blue, flapper",
         "points" : 0,
         "description" : "You have short blue flapper-style hair. Swing is the thing!",
         "starting_trait" : true,
@@ -242,7 +242,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_FLAPPER_BLONDE",
-        "name" : "Hair: Flapper Blonde",
+        "name" : "Hair: blonde, flapper",
         "points" : 0,
         "description" : "You have short blonde flapper-style hair. Swing is the thing!",
         "starting_trait" : true,
@@ -254,7 +254,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_FLAPPER_BROWN",
-        "name" : "Hair: Flapper Brown",
+        "name" : "Hair: brown, flapper",
         "points" : 0,
         "description" : "You have short brown flapper-style hair. Swing is the thing!",
         "starting_trait" : true,
@@ -266,7 +266,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_FLAPPER_BLACK",
-        "name" : "Hair: Flapper Black",
+        "name" : "Hair: black, flapper",
         "points" : 0,
         "description" : "You have short black flapper-style hair. Swing is the thing!",
         "starting_trait" : true,
@@ -278,7 +278,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_RECEDING_BROWN",
-        "name" : "Hair: Brown Receding",
+        "name" : "Hair: brown, receding",
         "points" : 0,
         "description" : "You have short brown hair, with a receding hairline.",
         "starting_trait" : true,
@@ -290,7 +290,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_RECEDING_BLONDE",
-        "name" : "Hair: Blonde Receding",
+        "name" : "Hair: blond, receding",
         "points" : 0,
         "description" : "You have short blonde hair, with a receding hairline.",
         "starting_trait" : true,
@@ -302,7 +302,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_RECEDING_BLACK",
-        "name" : "Hair: Black Receding",
+        "name" : "Hair: black, receding",
         "points" : 0,
         "description" : "You have short black hair, with a receding hairline.",
         "starting_trait" : true,
@@ -314,7 +314,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_DREADS_BROWN",
-        "name" : "Hair: Brown Dreads",
+        "name" : "Hair: brown, dreads",
         "points" : 0,
         "description" : "You have long brown hair, styled into voluminous dreadlocks.",
         "starting_trait" : true,
@@ -326,7 +326,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_CHELSEA_BROWN",
-        "name" : "Hair: Brown Chelsea Cut",
+        "name" : "Hair: brown, Chelsea",
         "points" : 0,
         "description" : "You have a brown Chelsea cut.",
         "starting_trait" : true,
@@ -337,8 +337,8 @@
   },
   {
         "type" : "mutation",
-        "id" : "HAIR_XTRALONG_BROWN",
-        "name" : "Hair: Extra Long Brown",
+        "id" : "HAIR_EXTRALONG_BROWN",
+        "name" : "Hair: brown, extra long",
         "points" : 0,
         "description" : "You have flowing brown hair, trailing to the side as you walk.",
         "starting_trait" : true,
@@ -349,8 +349,8 @@
   },
   {
         "type" : "mutation",
-        "id" : "HAIR_XTRALONG_BLONDE",
-        "name" : "Hair: Extra Long Blonde",
+        "id" : "HAIR_EXTRALONG_BLONDE",
+        "name" : "Hair: blond, extra long",
         "points" : 0,
         "description" : "You have flowing blonde hair, trailing to the side as you walk.",
         "starting_trait" : true,
@@ -361,8 +361,8 @@
   },
   {
         "type" : "mutation",
-        "id" : "HAIR_XTRALONG_BLACK",
-        "name" : "Hair: Extra Long Black",
+        "id" : "HAIR_EXTRALONG_BLACK",
+        "name" : "Hair: black, extra long",
         "points" : 0,
         "description" : "You have flowing black hair, trailing to the side as you walk.",
         "starting_trait" : true,
@@ -373,8 +373,8 @@
   },
   {
         "type" : "mutation",
-        "id" : "HAIR_XTRALONG_RED",
-        "name" : "Hair: Extra Long Red",
+        "id" : "HAIR_EXTRALONG_RED",
+        "name" : "Hair: red, extra long",
         "points" : 0,
         "description" : "You have flowing red hair, trailing to the side as you walk.",
         "starting_trait" : true,
@@ -386,7 +386,7 @@
   {
         "type" : "mutation",
         "id" : "MAKEUP_EYES_MASCARA_RUNNING",
-        "name" : "Makeup (Eyes): Mascara Running",
+        "name" : "Makeup (Eyes): mascara running",
         "points" : 0,
         "description" : "You have mascara running down your face.",
         "starting_trait" : true,
@@ -398,7 +398,7 @@
   {
         "type" : "mutation",
         "id" : "MAKEUP_FACE_RED_BLUSH",
-        "name" : "Makeup (Face): Red Blush",
+        "name" : "Makeup (Face): red blush",
         "points" : 0,
         "description" : "You have red blush on your cheeks.",
         "starting_trait" : true,
@@ -410,7 +410,7 @@
   {
         "type" : "mutation",
         "id" : "FACIAL_HAIR_FUMANCHU_MOUSTACHE",
-        "name" : "Facial Hair: Fu Manchu Moustache",
+        "name" : "Facial hair: Fu Manchu moustache",
         "points" : 0,
         "description" : "You have a Fu Manchu moustache.",
         "starting_trait" : true,
@@ -422,7 +422,7 @@
   {
         "type" : "mutation",
         "id" : "FACIAL_HAIR_DALI_MOUSTACHE",
-        "name" : "Facial Hair: Long Thin Moustache",
+        "name" : "Facial hair: long thin moustache",
         "points" : 0,
         "description" : "You have a supervillain-style long thin moustache.",
         "starting_trait" : true,
@@ -434,7 +434,7 @@
   {
         "type" : "mutation",
         "id" : "MAKEUP_FACE_UNIBROW",
-        "name" : "Makeup (Face): Unibrow",
+        "name" : "Makeup (Face): unibrow",
         "points" : 0,
         "description" : "You have a unibrow.",
         "starting_trait" : true,
@@ -446,7 +446,7 @@
   {
         "type" : "mutation",
         "id" : "COSMETIC_WOUND_BLACK_EYE",
-        "name" : "Cosmetic Wound: Black Eye",
+        "name" : "Cosmetic wound: black eye",
         "points" : 0,
         "description" : "You have a black eye.",
         "starting_trait" : true,
@@ -458,7 +458,7 @@
   {
         "type" : "mutation",
         "id" : "COSMETIC_WOUND_BLOODY_FACE",
-        "name" : "Cosmetic Wound: Bloody Face",
+        "name" : "Cosmetic wound: bloody face",
         "points" : 0,
         "description" : "You have a blood-splattered face.",
         "starting_trait" : true,
@@ -470,7 +470,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_LONGWAVY_OMBRE_BLONDEBLUE",
-        "name" : "Hair: Long Wavy Ombre Blonde/Blue",
+        "name" : "Hair: ombre, wavy blonde/blue",
         "points" : 0,
         "description" : "You have long wavy blonde hair, with a blue ombre.",
         "starting_trait" : true,
@@ -482,7 +482,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_LONGWAVY_OMBRE_GREENPINK",
-        "name" : "Hair: Long Wavy Ombre Green/Pink",
+        "name" : "Hair: ombre, wavy green/pink",
         "points" : 0,
         "description" : "You have long wavy green hair, with a pink ombre.",
         "starting_trait" : true,
@@ -494,7 +494,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_LONGWAVY_OMBRE_MAGENTAAQUAMARINE",
-        "name" : "Hair: Long Wavy Ombre Magenta/Aquamarine",
+        "name" : "Hair: ombre, wavy magenta/aquamarine",
         "points" : 0,
         "description" : "You have long wavy magenta hair, with an aquamarine ombre.",
         "starting_trait" : true,
@@ -506,7 +506,7 @@
   {
         "type" : "mutation",
         "id" : "TATTOO_M_CHEST_CROSS",
-        "name" : "Tattoo (Male): Chest Cross",
+        "name" : "Tattoo (Male): chest cross",
         "points" : 0,
         "description" : "You have a black cross on your chest.",
         "starting_trait" : true,
@@ -518,7 +518,7 @@
   {
         "type" : "mutation",
         "id" : "TATTOO_RARM_WIRE",
-        "name" : "Tattoo: Right Arm Wire",
+        "name" : "Tattoo: right arm wire",
         "points" : 0,
         "description" : "You have a black barbed wire tattoo on your right arm.",
         "starting_trait" : true,
@@ -529,8 +529,8 @@
   },
   {
         "type" : "mutation",
-        "id" : "TATTOO_LARM_BLACK",
-        "name" : "Tattoo: Left Arm Blackout",
+        "id" : "TATTOO_LARM_BLACKOUT",
+        "name" : "Tattoo: left arm blackout",
         "points" : 0,
         "description" : "You have a blackout tattoo on your left arm.",
         "starting_trait" : true,
@@ -542,7 +542,7 @@
   {
         "type" : "mutation",
         "id" : "TATTOO_FACE_COVERED",
-        "name" : "Tattoo: Face Covered",
+        "name" : "Tattoo: face covered",
         "points" : 0,
         "description" : "Your entire face is covered in tattoos.",
         "starting_trait" : true,
@@ -554,7 +554,7 @@
   {
         "type" : "mutation",
         "id" : "TATTOO_FACE_LESSCOVERED",
-        "name" : "Tattoo: Face Less Covered",
+        "name" : "Tattoo: face less covered",
         "points" : 0,
         "description" : "Almost your entire face is covered in tattoos.",
         "starting_trait" : true,
@@ -566,7 +566,7 @@
   {
         "type" : "mutation",
         "id" : "MAKEUP_EYES_EYELINER_GREEN",
-        "name" : "Makeup (Eyes): Eyeliner Green",
+        "name" : "Makeup (Eyes): eyeliner green",
         "points" : 0,
         "description" : "You have green eyeliner on.",
         "starting_trait" : true,
@@ -578,7 +578,7 @@
   {
         "type" : "mutation",
         "id" : "MAKEUP_EYES_EYELINER_BLUE",
-        "name" : "Makeup (Eyes): Eyeliner Blue",
+        "name" : "Makeup (Eyes): eyeliner blue",
         "points" : 0,
         "description" : "You have blue eyeliner on.",
         "starting_trait" : true,
@@ -590,7 +590,7 @@
   {
         "type" : "mutation",
         "id" : "MAKEUP_EYES_EYELINER_RED",
-        "name" : "Makeup (Eyes): Eyeliner Red",
+        "name" : "Makeup (Eyes): eyeliner red",
         "points" : 0,
         "description" : "You have red eyeliner on.",
         "starting_trait" : true,
@@ -602,7 +602,7 @@
   {
         "type" : "mutation",
         "id" : "MAKEUP_EYES_DARK_CIRCLES",
-        "name" : "Makeup (Eyes): Dark Circles",
+        "name" : "Makeup (Eyes): dark circles",
         "points" : 0,
         "description" : "You have dark circles around your eyes.",
         "starting_trait" : true,
@@ -614,7 +614,7 @@
   {
         "type" : "mutation",
         "id" : "COSMETIC_WOUND_BLOODSHOT_EYES",
-        "name" : "Cosmetic Wound: Bloodshot Eyes",
+        "name" : "Cosmetic wound: bloodshot eyes",
         "points" : 0,
         "description" : "You have bloodshot eyes.",
         "starting_trait" : true,
@@ -626,7 +626,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_SLICK_LONG_BROWN",
-        "name" : "Hair: Slicked Back Brown",
+        "name" : "Hair: brown, long slick",
         "points" : 0,
         "description" : "You have long brown hair, slicked back like a fantasy character.",
         "starting_trait" : true,
@@ -638,7 +638,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_SLICK_LONG_BLACK",
-        "name" : "Hair: Slicked Back Black",
+        "name" : "Hair: black, long slick",
         "points" : 0,
         "description" : "You have long black hair, slicked back like a fantasy character.",
         "starting_trait" : true,
@@ -650,7 +650,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_SLICK_LONG_BLONDE",
-        "name" : "Hair: Slicked Back Blonde",
+        "name" : "Hair: blond, long slick",
         "points" : 0,
         "description" : "You have long blonde hair, slicked back like a fantasy character.",
         "starting_trait" : true,
@@ -662,7 +662,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_SLICK_LONG_GRAY",
-        "name" : "Hair: Slicked Back Gray",
+        "name" : "Hair: gray, long slick",
         "points" : 0,
         "description" : "You have long brown hair, slicked back like a fantasy character.",
         "starting_trait" : true,
@@ -674,7 +674,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_NERD_BROWN",
-        "name" : "Hair: Nerdy Brown",
+        "name" : "Hair: brown, nerdy",
         "points" : 0,
         "description" : "You have short brown hair, with nerdy parted bangs.",
         "starting_trait" : true,
@@ -686,7 +686,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_NERD_BLACK",
-        "name" : "Hair: Nerdy Black",
+        "name" : "Hair: black, nerdy",
         "points" : 0,
         "description" : "You have short black hair, with nerdy parted bangs.",
         "starting_trait" : true,
@@ -698,7 +698,7 @@
   {
         "type" : "mutation",
         "id" : "MAKEUP_EYES_EYEBROWS_ANGRY",
-        "name" : "Makeup (Eyes): Angry Eyebrows",
+        "name" : "Makeup (Eyes): angry eyebrows",
         "points" : 0,
         "description" : "You have angry-looking eyebrows.",
         "starting_trait" : true,
@@ -710,7 +710,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_DRAPED_BROWN",
-        "name" : "Hair: Straight Draped Brown",
+        "name" : "Hair: brown, straight draped",
         "points" : 0,
         "description" : "You have long brown hair, with the ends draped on your shoulders.",
         "starting_trait" : true,
@@ -722,7 +722,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_DRAPED_BLACK",
-        "name" : "Hair: Straight Draped Black",
+        "name" : "Hair: black, straight draped",
         "points" : 0,
         "description" : "You have long black hair, with the ends draped on your shoulders.",
         "starting_trait" : true,
@@ -734,7 +734,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_DRAPED_BLONDE",
-        "name" : "Hair: Straight Draped Blonde",
+        "name" : "Hair: blond, straight draped",
         "points" : 0,
         "description" : "You have long blonde hair, with the ends draped on your shoulders.",
         "starting_trait" : true,
@@ -746,7 +746,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_MULLET_BROWN",
-        "name" : "Hair: Mullet Brown",
+        "name" : "Hair: brown, mullet",
         "points" : 0,
         "description" : "You have a brown mullet, like an 80s action hero.",
         "starting_trait" : true,
@@ -758,7 +758,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_MULLET_BLACK",
-        "name" : "Hair: Mullet Black",
+        "name" : "Hair: black, mullet",
         "points" : 0,
         "description" : "You have a black mullet, like an 80s action hero.",
         "starting_trait" : true,
@@ -770,7 +770,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_MULLET_BLONDE",
-        "name" : "Hair: Mullet Blonde",
+        "name" : "Hair: blond, mullet",
         "points" : 0,
         "description" : "You have a blonde mullet, like an 80s action hero.",
         "starting_trait" : true,
@@ -782,7 +782,7 @@
   {
         "type" : "mutation",
         "id" : "MAKEUP_FACE_ROSY_CHEEKS",
-        "name" : "Makeup (Face): Rosy Cheeks",
+        "name" : "Makeup (Face): rosy cheeks",
         "points" : 0,
         "description" : "You have rosy cheeks.",
         "starting_trait" : true,
@@ -794,7 +794,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_PONY_FIRE",
-        "name" : "Hair: Ponytail Fire Color",
+        "name" : "Hair: elemental, fire ponytail",
         "points" : 0,
         "description" : "You have a ponytail with a fire-themed balayage.",
         "starting_trait" : true,
@@ -806,7 +806,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_PONY_ICE",
-        "name" : "Hair: Ponytail Ice Color",
+        "name" : "Hair: elemental, ice ponytail",
         "points" : 0,
         "description" : "You have a ponytail with an ice-themed balayage.",
         "starting_trait" : true,
@@ -818,7 +818,7 @@
   {
         "type" : "mutation",
         "id" : "TATTOO_BODY_COLOR",
-        "name" : "Tattoo: Whole Body Colorful",
+        "name" : "Tattoo: full body colorful",
         "points" : 0,
         "description" : "You have colorful tattoos all over your body.",
         "starting_trait" : true,
@@ -830,7 +830,7 @@
   {
         "type" : "mutation",
         "id" : "TATTOO_F_CHEST_CROSS",
-        "name" : "Tattoo (Female): Chest Cross",
+        "name" : "Tattoo (Female): chest cross",
         "points" : 0,
         "description" : "You have a cross tattoo on your chest.",
         "starting_trait" : true,
@@ -841,8 +841,8 @@
   },
   {
         "type" : "mutation",
-        "id" : "TATTOO_RARM_BLACK",
-        "name" : "Tattoo: Right Arm Blackout",
+        "id" : "TATTOO_RARM_BLACKOUT",
+        "name" : "Tattoo: right arm blackout",
         "points" : 0,
         "description" : "You have a blackout tattoo on your right arm.",
         "starting_trait" : true,
@@ -854,7 +854,7 @@
   {
         "type" : "mutation",
         "id" : "TATTOO_LLEG_ROSE",
-        "name" : "Tattoo: Left Leg Rose",
+        "name" : "Tattoo: left leg rose",
         "points" : 0,
         "description" : "You have a rose tattoo on your left leg.",
         "starting_trait" : true,
@@ -865,8 +865,8 @@
   },
   {
         "type" : "mutation",
-        "id" : "TATTOO_BODY_DRAW",
-        "name" : "Tattoo: Whole Body Illustration",
+        "id" : "TATTOO_BODY_ILLUSTRATION",
+        "name" : "Tattoo: full body illustration",
         "points" : 0,
         "description" : "You have black illustration tattoos all over your body.",
         "starting_trait" : true,
@@ -878,7 +878,7 @@
   {
         "type" : "mutation",
         "id" : "TATTOO_BODY_TIGER",
-        "name" : "Tattoo: Whole Body Tiger Stripes",
+        "name" : "Tattoo: full body tiger stripes",
         "points" : 0,
         "description" : "You have tiger stripe tattoos all over your body.",
         "starting_trait" : true,
