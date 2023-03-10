@@ -505,15 +505,15 @@
   },
   {
         "type" : "mutation",
-        "id" : "TATTOO_M_CHEST_CROSS",
-        "name" : "Tattoo (Male): chest cross",
+        "id" : "TATTOO_M_TORSO_CROSS",
+        "name" : "Tattoo (Male): torso cross",
         "points" : 0,
         "description" : "You have a black cross on your chest.",
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
 		"player_display": false,
-        "types": [ "tattoo_chest" ]
+        "types": [ "tattoo_torso" ]
   },
   {
         "type" : "mutation",
@@ -817,7 +817,7 @@
   },
   {
         "type" : "mutation",
-        "id" : "TATTOO_BODY_COLOR",
+        "id" : "TATTOO_FULLBODY_COLOR",
         "name" : "Tattoo: full body colorful",
         "points" : 0,
         "description" : "You have colorful tattoos all over your body.",
@@ -825,19 +825,19 @@
 		"valid": false,
         "purifiable": false,
 		"player_display": false,
-        "types": [ "tattoo_chest" ]
+        "types": [ "tattoo_fullbody" ]
   },
   {
         "type" : "mutation",
-        "id" : "TATTOO_F_CHEST_CROSS",
-        "name" : "Tattoo (Female): chest cross",
+        "id" : "TATTOO_F_TORSO_CROSS",
+        "name" : "Tattoo (Female): torso cross",
         "points" : 0,
         "description" : "You have a cross tattoo on your chest.",
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
 		"player_display": false,
-        "types": [ "tattoo_chest" ]
+        "types": [ "tattoo_torso" ]
   },
   {
         "type" : "mutation",
@@ -865,7 +865,7 @@
   },
   {
         "type" : "mutation",
-        "id" : "TATTOO_BODY_ILLUSTRATION",
+        "id" : "TATTOO_FULLBODY_ILLUSTRATION",
         "name" : "Tattoo: full body illustration",
         "points" : 0,
         "description" : "You have black illustration tattoos all over your body.",
@@ -873,11 +873,11 @@
 		"valid": false,
         "purifiable": false,
 		"player_display": false,
-        "types": [ "tattoo_chest" ]
+        "types": [ "tattoo_fullbody" ]
   },
   {
         "type" : "mutation",
-        "id" : "TATTOO_BODY_TIGER",
+        "id" : "TATTOO_FULLBODY_TIGER",
         "name" : "Tattoo: full body tiger stripes",
         "points" : 0,
         "description" : "You have tiger stripe tattoos all over your body.",
@@ -885,6 +885,6 @@
 		"valid": false,
         "purifiable": false,
 		"player_display": false,
-        "types": [ "tattoo_chest" ]
+        "types": [ "tattoo_fullbody" ]
   }
 ]

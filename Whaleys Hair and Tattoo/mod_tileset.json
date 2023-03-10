@@ -48,7 +48,7 @@
           { "id": "overlay_mutation_HAIR_LONGWAVY_OMBRE_BLONDEBLUE", "fg": 40 },
           { "id": "overlay_mutation_HAIR_LONGWAVY_OMBRE_GREENPINK", "fg": 41 },
           { "id": "overlay_mutation_HAIR_LONGWAVY_OMBRE_MAGENTAAQUAMARINE", "fg": 42 },
-          { "id": "overlay_male_mutation_TATTOO_M_CHEST_CROSS", "fg": 43 },
+          { "id": "overlay_male_mutation_TATTOO_M_TORSO_CROSS", "fg": 43 },
           { "id": "overlay_mutation_TATTOO_RARM_WIRE", "fg": 44 },
           { "id": "overlay_mutation_TATTOO_LARM_BLACKOUT", "fg": 45 },
           { "id": "overlay_mutation_TATTOO_FACE_COVERED", "fg": 46 },
@@ -74,12 +74,12 @@
           { "id": "overlay_mutation_HAIR_MULLET_BLACK", "fg": 70 },
           { "id": "overlay_mutation_HAIR_PONY_FIRE", "fg": 71 },
           { "id": "overlay_mutation_HAIR_PONY_ICE", "fg": 72 },
-          { "id": "overlay_mutation_TATTOO_BODY_COLOR", "fg": 80 },
-          { "id": "overlay_female_mutation_TATTOO_F_CHEST_CROSS", "fg": 81 },
+          { "id": "overlay_mutation_TATTOO_FULLBODY_COLOR", "fg": 80 },
+          { "id": "overlay_female_mutation_TATTOO_F_TORSO_CROSS", "fg": 81 },
           { "id": "overlay_mutation_TATTOO_RARM_BLACKOUT", "fg": 82 },
           { "id": "overlay_mutation_TATTOO_LLEG_ROSE", "fg": 83 },
-          { "id": "overlay_mutation_TATTOO_BODY_ILLUSTRATION", "fg": 84 },
-          { "id": "overlay_mutation_TATTOO_BODY_TIGER", "fg": 85 }		  
+          { "id": "overlay_mutation_TATTOO_FULLBODY_ILLUSTRATION", "fg": 84 },
+          { "id": "overlay_mutation_TATTOO_FULLBODY_TIGER", "fg": 85 }		  
         ]
       }
     ]
