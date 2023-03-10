@@ -2,7 +2,16 @@
 
 # 0.G
 
+- **SAVE-BREAKING:** Reworked/cleaned up mutation IDs to follow a comprehensive naming convention.
+    - This is a save-breaking change. Mitigation instructions for existing savegames are below:
+        1. Load your save using the old version of Whaley's Hair and Tattoo.
+        2. Use the debug menu (`Player`>`Mutate`) to remove all Whaley-related traits from yourself and NPC followers.
+        3. Close the game and update Whaley's Hair and Tattoo to the new version.
+        4. Load your savegame and use the debug menu to re-add your Whaley-related traits to your characters.
+- Removed cross-gender restrictions on most sprites.
+    - Traits that have gender-based variation have been tagged consistently with the new convention.
 - Rewrote descriptions to more accurately describe the styles and more closely follow the vanilla flavour text style.
+- Cleaned up a bunch of typos and formatting inconsistencies.
 
 # [0.F](https://github.com/neonspectra/whaleys-hair-and-tattoo/releases/tag/0.F)
 

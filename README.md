@@ -1,6 +1,6 @@
 # Whaley's Hair and Tattoo - Unofficial 0.G Release
 
-![Whaley's Hair and Tattoo](https://i.redd.it/2vtebwm1hiy31.png)
+![Whaley's Hair and Tattoo](overview.png)
 
 ### Overview
 
