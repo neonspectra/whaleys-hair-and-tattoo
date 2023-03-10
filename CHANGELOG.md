@@ -4,9 +4,11 @@
 
 ### Changes
 - **SAVE-BREAKING:** Reworked/cleaned up mutation IDs to follow a comprehensive naming convention.
-- Removed cross-gender restrictions on most sprites.
+- Removed cross-gender restrictions on most traits.
     - Traits that have gender-based variation have been tagged consistently with the new convention.
-- Rewrote descriptions to more accurately describe the styles and more closely follow the vanilla flavour text style.
+- Rewrote `name`s/`description`s to be more accurate, more searchable, and seamlessly follow the vanilla flavour text style.
+- Added the new `vanity` property to all items.
+    - Toggled player display on all items to make this property useful.
 - Cleaned up a bunch of typos and formatting inconsistencies.
 
 ### Existing Savegames
