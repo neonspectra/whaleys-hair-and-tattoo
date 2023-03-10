@@ -62,7 +62,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_LONGWAVY_PONY_BROWN",
-        "name" : "Hair: Wavy with Ponytail Brown",
+        "name" : "Hair: Half Ponytail Brown",
         "points" : 0,
         "description" : "You have long wavy brown hair, with a short ponytail.",
         "starting_trait" : true,
@@ -74,7 +74,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_LONGWAVY_PONY_BOW_BROWN",
-        "name" : "Hair: Wavy with Ponytail Brown with Bow",
+        "name" : "Hair: Half Ponytail Brown with Bow",
         "points" : 0,
         "description" : "You have long wavy brown hair, with a short ponytail and bow.",
         "starting_trait" : true,
@@ -86,7 +86,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_LONGWAVY_PONY_BLONDE",
-        "name" : "Hair: Wavy with Ponytail Blonde",
+        "name" : "Hair: Half Ponytail Blonde",
         "points" : 0,
         "description" : "You have long wavy blonde hair, with a short ponytail.",
         "starting_trait" : true,
@@ -98,7 +98,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_LONGWAVY_PONY_BLACK",
-        "name" : "Hair: Wavy with Ponytail Black",
+        "name" : "Hair: Half Ponytail Black",
         "points" : 0,
         "description" : "You have long wavy black hair, with a short ponytail.",
         "starting_trait" : true,
@@ -194,7 +194,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_QUADTAILS_BOWS",
-        "name" : "Hair: Quadtail Brown with Bows.",
+        "name" : "Hair: Quadtail Brown with Bows",
         "points" : 0,
         "description" : "You have long brown hair, styled into anime-inspired quadtails with red bows on each side.",
         "starting_trait" : true,
@@ -338,7 +338,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_XTRALONG_BROWN",
-        "name" : "Hair: Extremely Long Brown",
+        "name" : "Hair: Extra Long Brown",
         "points" : 0,
         "description" : "You have flowing brown hair, trailing to the side as you walk.",
         "starting_trait" : true,
@@ -350,7 +350,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_XTRALONG_BLONDE",
-        "name" : "Hair: Extremely Long Blonde",
+        "name" : "Hair: Extra Long Blonde",
         "points" : 0,
         "description" : "You have flowing blonde hair, trailing to the side as you walk.",
         "starting_trait" : true,
@@ -362,7 +362,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_XTRALONG_BLACK",
-        "name" : "Hair: Extremely Long Black",
+        "name" : "Hair: Extra Long Black",
         "points" : 0,
         "description" : "You have flowing black hair, trailing to the side as you walk.",
         "starting_trait" : true,
@@ -374,7 +374,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_XTRALONG_RED",
-        "name" : "Hair: Extremely Long red",
+        "name" : "Hair: Extra Long Red",
         "points" : 0,
         "description" : "You have flowing red hair, trailing to the side as you walk.",
         "starting_trait" : true,
@@ -446,7 +446,7 @@
   {
         "type" : "mutation",
         "id" : "COSMETIC_WOUND_BLACK_EYE",
-        "name" : "Cosmetic Wound: Black eye",
+        "name" : "Cosmetic Wound: Black Eye",
         "points" : 0,
         "description" : "You have a black eye.",
         "starting_trait" : true,
@@ -458,7 +458,7 @@
   {
         "type" : "mutation",
         "id" : "COSMETIC_WOUND_BLOODY_FACE",
-        "name" : "Cosmetic Wound: Bloody face",
+        "name" : "Cosmetic Wound: Bloody Face",
         "points" : 0,
         "description" : "You have a blood-splattered face.",
         "starting_trait" : true,
