@@ -8,7 +8,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -21,7 +21,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -34,7 +34,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -47,7 +47,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -60,7 +60,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -73,7 +73,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -86,7 +86,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -99,7 +99,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -112,7 +112,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -125,7 +125,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -138,7 +138,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -151,7 +151,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -164,7 +164,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -177,7 +177,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -190,7 +190,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -203,7 +203,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -216,7 +216,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -229,7 +229,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -242,7 +242,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -255,7 +255,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -268,7 +268,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -281,7 +281,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -294,7 +294,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -307,7 +307,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -320,7 +320,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -333,7 +333,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -346,7 +346,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -359,7 +359,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -372,7 +372,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -385,7 +385,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -398,7 +398,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -411,7 +411,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -424,7 +424,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "makeup_eyes" ]
   },
@@ -437,7 +437,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "makeup_face" ]
   },
@@ -450,7 +450,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "facial_hair" ]
   },
@@ -463,7 +463,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "facial_hair" ]
   },
@@ -476,7 +476,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "makeup_face" ]
   },
@@ -489,7 +489,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "cosmetic_wound" ]
   },
@@ -502,7 +502,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "cosmetic_wound" ]
   },
@@ -515,7 +515,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -528,7 +528,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -541,7 +541,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -554,7 +554,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "tattoo_torso" ]
   },
@@ -567,7 +567,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "tattoo_rightarm" ]
   },
@@ -580,7 +580,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "tattoo_leftarm" ]
   },
@@ -593,7 +593,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "tattoo_face" ]
   },
@@ -606,7 +606,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "tattoo_face" ]
   },
@@ -619,7 +619,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "makeup_eyes" ]
   },
@@ -632,7 +632,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "makeup_eyes" ]
   },
@@ -645,7 +645,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "makeup_eyes" ]
   },
@@ -658,7 +658,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "makeup_eyes" ]
   },
@@ -671,7 +671,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "cosmetic_wound" ]
   },
@@ -684,7 +684,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -697,7 +697,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -710,7 +710,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -723,7 +723,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -736,7 +736,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -749,7 +749,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -762,7 +762,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "makeup_eyes" ]
   },
@@ -775,7 +775,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -788,7 +788,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -801,7 +801,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -814,7 +814,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -827,7 +827,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -840,7 +840,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -853,7 +853,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "makeup_face" ]
   },
@@ -866,7 +866,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -879,7 +879,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "hair_style" ]
   },
@@ -892,7 +892,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "tattoo_fullbody" ]
   },
@@ -905,7 +905,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "tattoo_torso" ]
   },
@@ -918,7 +918,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "tattoo_rightarm" ]
   },
@@ -931,7 +931,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "tattoo_leftleg" ]
   },
@@ -944,7 +944,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "tattoo_fullbody" ]
   },
@@ -957,7 +957,7 @@
         "starting_trait" : true,
 		"valid": false,
         "purifiable": false,
-		"player_display": false,
+	"player_display": true,
         "vanity": true,
         "types": [ "tattoo_fullbody" ]
   }
