@@ -534,10 +534,10 @@
   },
   {
         "type" : "mutation",
-        "id" : "HAIR_LONGWAVY_OMBRE_MAGENTAAQUAMARINE",
-        "name" : "Hair: ombre, wavy magenta/aquamarine",
+        "id" : "HAIR_LONGWAVY_OMBRE_MAGENTACYAN",
+        "name" : "Hair: ombre, wavy magenta/cyan",
         "points" : 0,
-        "description" : "You have long wavy magenta hair, with an aquamarine ombre.",
+        "description" : "You have long wavy magenta hair, with a cyan ombre.",
         "starting_trait" : true,
 	"valid": false,
         "purifiable": false,
