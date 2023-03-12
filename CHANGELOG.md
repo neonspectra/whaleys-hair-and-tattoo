@@ -4,7 +4,7 @@
 **Compatibility**: 0.G Stable
 
 ### Changes
-- **SAVE-BREAKING:** Reworked/cleaned up mutation IDs to follow a comprehensive naming convention.
+- **SAVE-BREAKING:** Reworked/cleaned up mutation IDs to follow a consistent naming convention.
 - Removed cross-gender restrictions on most traits.
     - Traits that have gender-based variation have been tagged consistently with the new convention.
 - Rewrote `name`/`description` properties to be more accurate, more searchable, and seamlessly follow the vanilla flavour text style.
