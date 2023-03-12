@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.G
+## [0.G](https://github.com/neonspectra/whaleys-hair-and-tattoo/releases/tag/0.G)
 **Compatibility**: 0.G Stable
 
 ### Changes
