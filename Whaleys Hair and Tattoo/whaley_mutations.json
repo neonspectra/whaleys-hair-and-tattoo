@@ -93,7 +93,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_LONGWAVY_PONY_BLONDE",
-        "name" : "Hair: blonde, half ponytail",
+        "name" : "Hair: blond, half ponytail",
         "points" : 0,
         "description" : "You have long wavy blonde hair, with a short ponytail.",
         "starting_trait" : true,
@@ -132,7 +132,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_LONGWAVY_BLONDE",
-        "name" : "Hair: blonde, long wavy",
+        "name" : "Hair: blond, long wavy",
         "points" : 0,
         "description" : "You have long wavy blonde hair.",
         "starting_trait" : true,
@@ -171,7 +171,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_PONY_BLONDE",
-        "name" : "Hair: blonde, ponytail (alt)",
+        "name" : "Hair: blond, ponytail (alt)",
         "points" : 0,
         "description" : "You have a blonde ponytail.",
         "starting_trait" : true,
@@ -236,7 +236,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_QUADTAILS_BLONDE",
-        "name" : "Hair: blonde, quadtails",
+        "name" : "Hair: blond, quadtails",
         "points" : 0,
         "description" : "You have long blonde hair, styled into anime-inspired quadtails.",
         "starting_trait" : true,
@@ -262,7 +262,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_FLAPPER_BLONDE",
-        "name" : "Hair: blonde, flapper",
+        "name" : "Hair: blond, flapper",
         "points" : 0,
         "description" : "You have short blonde flapper-style hair. Swing is the thing!",
         "starting_trait" : true,
