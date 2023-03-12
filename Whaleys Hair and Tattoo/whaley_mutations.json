@@ -28,7 +28,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_PIGTAILS_BLONDE",
-        "name" : "Hair: pigtails, blonde",
+        "name" : "Hair: blond, pigtails",
         "points" : 0,
         "description" : "You have blonde hair, with the ends tied into low pigtails.",
         "starting_trait" : true,
@@ -41,7 +41,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_PIGTAILS_BROWN",
-        "name" : "Hair: pigtails, brown",
+        "name" : "Hair: brown, pigtails",
         "points" : 0,
         "description" : "You have brown hair, with the ends tied into low pigtails.",
         "starting_trait" : true,
@@ -54,7 +54,7 @@
   {
         "type" : "mutation",
         "id" : "HAIR_PIGTAILS_BLACK",
-        "name" : "Hair: pigtails, black",
+        "name" : "Hair: black, pigtails",
         "points" : 0,
         "description" : "You have black hair, with the ends tied into low pigtails.",
         "starting_trait" : true,
