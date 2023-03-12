@@ -9,7 +9,15 @@
   },
   {
     "type": "mutation_type",
-    "id": "tattoo_chest"
+    "id": "cosmetic_wound"
+  },
+  {
+    "type": "mutation_type",
+    "id": "tattoo_fullbody"
+  },
+  {
+    "type": "mutation_type",
+    "id": "tattoo_torso"
   },
   {
     "type": "mutation_type",
@@ -30,9 +38,5 @@
   {
     "type": "mutation_type",
     "id": "tattoo_rightleg"
-  },
-  {
-    "type": "mutation_type",
-    "id": "expression"
   }
 ]
