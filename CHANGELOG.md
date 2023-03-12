@@ -6,7 +6,7 @@
 ### Changes
 - **SAVE-BREAKING:** Reworked/cleaned up mutation IDs to follow a consistent naming convention.
 - Removed cross-gender restrictions on most traits.
-    - Traits that have gender-based variation have been tagged consistently with the new convention.
+    - Traits that have gender-based variations have been tagged consistently with the new convention.
 - Rewrote `name`/`description` properties to be more accurate, more searchable, and seamlessly follow the vanilla flavour text style.
 - Added the new `vanity` property to all items.
     - Toggled player display on all items to make this property useful.
