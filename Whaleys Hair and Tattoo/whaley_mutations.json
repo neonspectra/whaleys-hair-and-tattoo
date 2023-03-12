@@ -196,8 +196,8 @@
   },
   {
         "type" : "mutation",
-        "id" : "HAIR_SHORT_PIGTAILS_RED",
-        "name" : "Hair: red, short pigtails",
+        "id" : "HAIR_FRONTPIGTAILS_RED",
+        "name" : "Hair: red, front pigtails",
         "points" : 0,
         "description" : "You have short red hair, pulled into two frontal pigtails.",
         "starting_trait" : true,
@@ -209,7 +209,7 @@
   },
   {
         "type" : "mutation",
-        "id" : "HAIR_QUADTAILS_BROWN_BOWS",
+        "id" : "HAIR_QUADTAILS_BOW_BROWN",
         "name" : "Hair: brown, quadtails with bows",
         "points" : 0,
         "description" : "You have long brown hair, styled into anime-inspired quadtails with red bows on each side.",
@@ -677,7 +677,7 @@
   },
   {
         "type" : "mutation",
-        "id" : "HAIR_SLICK_LONG_BROWN",
+        "id" : "HAIR_LONGSLICK_BROWN",
         "name" : "Hair: brown, long slick",
         "points" : 0,
         "description" : "You have long brown hair, slicked back like a fantasy character.",
@@ -690,7 +690,7 @@
   },
   {
         "type" : "mutation",
-        "id" : "HAIR_SLICK_LONG_BLACK",
+        "id" : "HAIR_LONGSLICK_BLACK",
         "name" : "Hair: black, long slick",
         "points" : 0,
         "description" : "You have long black hair, slicked back like a fantasy character.",
@@ -703,7 +703,7 @@
   },
   {
         "type" : "mutation",
-        "id" : "HAIR_SLICK_LONG_BLONDE",
+        "id" : "HAIR_LONGSLICK_BLONDE",
         "name" : "Hair: blond, long slick",
         "points" : 0,
         "description" : "You have long blonde hair, slicked back like a fantasy character.",
@@ -716,7 +716,7 @@
   },
   {
         "type" : "mutation",
-        "id" : "HAIR_SLICK_LONG_GRAY",
+        "id" : "HAIR_LONGSLICK_GRAY",
         "name" : "Hair: gray, long slick",
         "points" : 0,
         "description" : "You have long brown hair, slicked back like a fantasy character.",
@@ -729,7 +729,7 @@
   },
   {
         "type" : "mutation",
-        "id" : "HAIR_NERD_BROWN",
+        "id" : "HAIR_NERDY_BROWN",
         "name" : "Hair: brown, nerdy",
         "points" : 0,
         "description" : "You have short brown hair, with nerdy parted bangs.",
@@ -742,7 +742,7 @@
   },
   {
         "type" : "mutation",
-        "id" : "HAIR_NERD_BLACK",
+        "id" : "HAIR_NERDY_BLACK",
         "name" : "Hair: black, nerdy",
         "points" : 0,
         "description" : "You have short black hair, with nerdy parted bangs.",
